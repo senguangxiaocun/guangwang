@@ -18,7 +18,7 @@ defineOptions({
 
 <style scoped>
 .your_style {
-  background-color: rgb(232, 119, 255);
-  color: black;
+  background-color: rgb(238, 55, 130);
+  color: rgba(132, 132, 132, 0.677);
 }
 </style>
