@@ -10,7 +10,7 @@ defineOptions({
 
     <div class="email" absolute bottom-10 w-full flex justify-center>
       <div class="your_style" rd-2 bg-black p-2 p-x-5 text-8 color-white>
-        639293382@qq.com
+        weiyunjian0203@icloud.com
       </div>
     </div>
   </div>
@@ -19,6 +19,6 @@ defineOptions({
 <style scoped>
 .your_style {
   background-color: rgb(238, 55, 130);
-  color: rgba(132, 132, 132, 0.677);
+  color: rgb(255, 255, 255);
 }
 </style>
