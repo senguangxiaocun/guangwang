@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'Moverx'
+const appName = 'CamLi'
 </script>
 
 <template>
