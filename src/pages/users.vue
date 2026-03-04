@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'Test1'
+const appName = 'Pily'
 </script>
 
 <template>
@@ -403,7 +403,7 @@ const appName = 'Test1'
       <br><br>
       9.4 You agree to indemnify,defend and hold harmless us,our affiliates
       from and against any and all
-      comolaints.demands.claims.damages.losses.costs.liabilities and
+      comolaints.demands.claims.damages. losses.costs.liabilities and
       expenses,including but not limited to attorney's fees, arising out of your
       access to or use of the Service,your breach of this Agreement.
       <br><br>
