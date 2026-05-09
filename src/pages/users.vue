@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'Vevia'
+const appName = 'Timo'
 </script>
 
 <template>
