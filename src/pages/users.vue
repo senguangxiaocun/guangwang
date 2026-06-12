@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'Timo'
+const appName = 'Bluxx'
 </script>
 
 <template>
