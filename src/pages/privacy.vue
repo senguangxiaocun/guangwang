@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'Chava'
+const appName = 'Veloura'
 </script>
 
 <template>
