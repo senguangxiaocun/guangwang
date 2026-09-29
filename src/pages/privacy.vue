@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'WrenChat'
+const appName = 'Vilog'
 </script>
 
 <template>
