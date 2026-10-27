@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'Vilog'
+const appName = 'Vextr'
 </script>
 
 <template>
